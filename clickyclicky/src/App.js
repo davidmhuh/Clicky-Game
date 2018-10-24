@@ -49,7 +49,6 @@ class App extends Component {
             <Characters
               setClick={this.setClick}
               id={characters.id}
-              key={characters.id}
               image={characters.image}
               name={characters.name}
             />
