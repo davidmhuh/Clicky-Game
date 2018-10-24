@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Stan",
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/c/c6/Stan-marsh-0.png/revision/latest?cb=20170721155858"
+    },
+    {
+        "id": 2,
+        "name": "Kyle",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/25/KyleBroflovski.png"
+    },
+    {
+        "id": 3,
+        "name": "Cartman",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/EricCartman.png/220px-EricCartman.png"
+    },
+    {
+        "id": 4,
+        "name": "Kenny",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/KennyMcCormick.png/150px-KennyMcCormick.png"
+    },
+    {
+        "id": 5,
+        "name": "Randy",
+        "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/randy-marsh-south-park-19.1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Towelie",
+        "image": "https://res.cloudinary.com/teepublic/image/private/s--Wsw2t0Wy--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1446179955/production/designs/108899_0.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Butters",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/06/ButtersStotch.png"
+    },
+    {
+        "id": 8,
+        "name": "Chef",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/SouthParkChef.png/180px-SouthParkChef.png"
+    },
+    {
+        "id": 9,
+        "name": "Wendy",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Wendy_South_Park.png/150px-Wendy_South_Park.png"
+    },
+    {
+        "id": 10,
+        "name": "PC Principle",
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/6/61/30dmc2_9_pc_principal_brah_by_lolwutburger-d9h6ncd-00.png/revision/latest?cb=20170807040748"
+    },
+    {
+        "id": 11,
+        "name": "Jesus",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Palz.jpg/240px-Palz.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Shelly",
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/3/3b/Shelly.png/revision/latest?cb=20160406113409"
+    }
+]

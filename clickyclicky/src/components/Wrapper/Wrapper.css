@@ -1,0 +1,26 @@
+.wrapper {
+    padding-top: 50px;
+    background: #ECEFF1;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+  }
+  
+.header {
+    text-align: center;
+    background-color: dodgerblue;
+}
+
+.navbar {
+    text-align: center;
+    background-color: pink;
+}
+
+li {
+  overflow: auto;
+  font-size: 40px;
+}

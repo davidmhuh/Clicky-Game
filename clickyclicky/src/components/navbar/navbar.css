@@ -1,0 +1,5 @@
+.navbar li {
+    display: inline-block;
+    text-align: center;
+    width: 500px;
+}
