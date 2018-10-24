@@ -5,20 +5,4 @@
 Click the button and try not to duplicate your first click. Doing so will lose you the game and your score will be reset to 0.
 
 
-### Instructions
-
-1. Check out the [example solution](https://clicky-game.netlify.com/) and study the app's basic functionality.
-
-2. Create a new React application using [Create React App](https://github.com/facebookincubator/create-react-app).
-
-3. The application should render different images (of your choice) to the screen. Each image should listen for click events.
-
-4. The application should keep track of the user's score. The user's score should be incremented when clicking an image for the first time. The user's score should be reset to 0 if they click the same image more than once.
-
-5. Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
-
-6. Once the user's score is reset after an incorrect guess, the game should restart.
-
-7. When complete, the application should be deployed to Github Pages. See the README generated with Create React App for instructions on deploying the application to Github Pages.
-
-- - -
+![image](https://user-images.githubusercontent.com/18372977/47420669-d44e3800-d733-11e8-9f60-6a3bfbf40708.png)
